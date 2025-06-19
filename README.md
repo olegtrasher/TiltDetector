@@ -41,6 +41,13 @@ pip install -r requirements.txt
    - `resnet50_rnn__st3d.pth`
    - `resnet50_rnn__mp3d.pth`
 
+## Скачивание весов моделей
+
+**Веса моделей (.pth) можно скачать здесь:**
+https://github.com/sunset1995/HorizonNet#pretrained-models
+
+Скачайте нужный .pth-файл и поместите его в папку `pretrained_models/`.
+
 ## Использование
 
 ### Запуск GUI приложения

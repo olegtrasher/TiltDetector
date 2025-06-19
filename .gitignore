@@ -120,4 +120,16 @@ Thumbs.db
 !pretrained_models/*.pth
 output/
 results/
+temp/
+
+# Игнорировать все изображения
+*.png
+*.jpg
+*.jpeg
+
+# Не игнорировать веса моделей
+!pretrained_models/*.pth
+
+output/
+results/
 temp/ 
