@@ -171,8 +171,12 @@ __pycache__/
 Unified-Line-Segment-Detection/model/
 Unified-Line-Segment-Detection/dataset/
 Unified-Line-Segment-Detection/output/
-# Старая папка ULSD (удалена)
+Unified-Line-Segment-Detection/figure/
+# Старая папка ULSD (нужно удалить)
 Unified-Line-Segment-Detection_old/
+
+# Папка model в корне проекта
+model/
 
 # Системные файлы
 .DS_Store
