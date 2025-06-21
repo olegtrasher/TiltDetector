@@ -132,4 +132,61 @@ temp/
 
 output/
 results/
-temp/ 
+temp/
+
+# Модели машинного обучения (большие файлы)
+*.pkl
+*.pth
+*.pt
+*.h5
+*.onnx
+*.tflite
+*.pb
+
+# Временные файлы
+temp/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Видео файлы
+*.avi
+*.mp4
+*.mov
+*.mkv
+
+# Архивы
+*.7z
+*.zip
+*.rar
+*.tar.gz
+
+# PDF файлы (могут быть большими)
+*.pdf
+
+# Папки с большими данными
+Unified-Line-Segment-Detection/model/
+Unified-Line-Segment-Detection/dataset/
+Unified-Line-Segment-Detection/output/
+Unified-Line-Segment-Detection_old/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE файлы
+.vscode/
+.idea/
+*.sublime-*
+
+# Логи
+*.log
+
+# Папка с предобученными моделями
+pretrained_models/ 
