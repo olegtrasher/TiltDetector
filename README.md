@@ -1,5 +1,9 @@
 # TiltDetector - Определение угла наклона камеры
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/olegtrasher/TiltDetector/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://python.org)
+
 Утилита для определения угла наклона (pitch) камеры по панорамным стерео-изображениям с использованием нейросети ULSD (Unified Line Segment Detection).
 
 ## Описание проекта
