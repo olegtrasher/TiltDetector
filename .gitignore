@@ -167,10 +167,11 @@ __pycache__/
 # PDF файлы (могут быть большими)
 *.pdf
 
-# Папки с большими данными
+# Папки с большими данными внутри ULSD подмодуля
 Unified-Line-Segment-Detection/model/
 Unified-Line-Segment-Detection/dataset/
 Unified-Line-Segment-Detection/output/
+# Старая папка ULSD (удалена)
 Unified-Line-Segment-Detection_old/
 
 # Системные файлы

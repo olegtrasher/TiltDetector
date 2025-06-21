@@ -1,0 +1,3 @@
+[submodule "Unified-Line-Segment-Detection"]
+	path = Unified-Line-Segment-Detection
+	url = https://github.com/lh9171338/Unified-Line-Segment-Detection.git
